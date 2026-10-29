@@ -1,0 +1,8 @@
+﻿{
+    "version":  "3.3",
+    "notes":  "ShareBridge_main",
+    "main":  "download/ShareBridge_Main.exe",
+    "mainSha256":  "B0DD828DEAEA6CCD452D7C8296FBA98FE23FAE5D3E8CF5EEFBA7303B429AA14A",
+    "user":  "download/ShareBridge_User.exe",
+    "userSha256":  "CF89A6FDBD9E89B2CBCFF48CEFF666B51BB345694C3DCBE8423043E96CAA22C4"
+}
