@@ -1,8 +1,8 @@
 {
-  "version": "3.4",
-  "notes": "New: update by internet, background picture, EXE icon maker, printer tick boxes, clock and greeting.",
+  "version": "3.7",
+  "notes": "TRIAL 3.7: same as 3.6, only the version number is higher - for testing Google Drive update.",
   "main": "https://raw.githubusercontent.com/binoy81162-byte/sharebridge/refs/heads/main/download/ShareBridge_Main.exe",
-  "mainSha256": "3C0DAE81586FD7C4824A637B1475D13BF5D779E201EC50499F2DC9EBB2951ADA",
+  "mainSha256": "E9EB720033EEBDFEA1A2A4D04628E97895830DB91A6A796A4D89C78E3479609D",
   "user": "https://raw.githubusercontent.com/binoy81162-byte/sharebridge/refs/heads/main/download/ShareBridge_User.exe",
-  "userSha256": "EAAD7D8D978D20AE8A016E2417960AB43E0E29AE92FE8CD048EC0940C4019F01"
+  "userSha256": "FC2506BA1037E233972D0144FE40C642831D47F91C76A6C01CE462386449E39B"
 }
