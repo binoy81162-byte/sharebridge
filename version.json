@@ -1,8 +1,8 @@
 {
-  "version": "4.0",
-  "notes": "New: premium dashboard (sidebar, glass cards, live network map, health ring, custom title bar, loading screen).",
+  "version": "4.1",
+  "notes": "Fix: desktop shortcut now created and kept; dashboard no longer freezes (data read in background, automatic low-animation mode on slow PCs).",
   "main": "https://raw.githubusercontent.com/binoy81162-byte/sharebridge/refs/heads/main/download/ShareBridge_Main.exe",
-  "mainSha256": "A28730B41CCC2A9461536C62F616613C01E47B44B52EAAC998189414019DDFED",
+  "mainSha256": "218A8CCACC93E499BE209739592F4AA240518C6E135742F5E9C344B66AE62544",
   "user": "https://raw.githubusercontent.com/binoy81162-byte/sharebridge/refs/heads/main/download/ShareBridge_User.exe",
-  "userSha256": "B7F53375650D728265350C9DC75898B4181859EA9E5D8404BD1896DB7929843B"
+  "userSha256": "32E025F72590F310A7C17003946186CECA7F227D8431C908C8C412D77A2CAFFB"
 }
