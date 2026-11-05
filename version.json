@@ -1,8 +1,8 @@
 {
-  "version": "3.7",
-  "notes": "TRIAL 3.7: same as 3.6, only the version number is higher - for testing Google Drive update.",
+  "version": "4.0",
+  "notes": "New: premium dashboard (sidebar, glass cards, live network map, health ring, custom title bar, loading screen).",
   "main": "https://raw.githubusercontent.com/binoy81162-byte/sharebridge/refs/heads/main/download/ShareBridge_Main.exe",
-  "mainSha256": "E9EB720033EEBDFEA1A2A4D04628E97895830DB91A6A796A4D89C78E3479609D",
+  "mainSha256": "A28730B41CCC2A9461536C62F616613C01E47B44B52EAAC998189414019DDFED",
   "user": "https://raw.githubusercontent.com/binoy81162-byte/sharebridge/refs/heads/main/download/ShareBridge_User.exe",
-  "userSha256": "FC2506BA1037E233972D0144FE40C642831D47F91C76A6C01CE462386449E39B"
+  "userSha256": "B7F53375650D728265350C9DC75898B4181859EA9E5D8404BD1896DB7929843B"
 }
