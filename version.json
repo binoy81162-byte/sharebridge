@@ -1,8 +1,8 @@
 {
-  "version": "4.1",
-  "notes": "Fix: desktop shortcut now created and kept; dashboard no longer freezes (data read in background, automatic low-animation mode on slow PCs).",
+  "version": "4.2",
+  "notes": "New: IT Helpdesk + ShareBridge apps permanently on the dashboard; no more freezing (printer/share/LAN queries run in background); fast mode by default.",
   "main": "https://raw.githubusercontent.com/binoy81162-byte/sharebridge/refs/heads/main/download/ShareBridge_Main.exe",
-  "mainSha256": "218A8CCACC93E499BE209739592F4AA240518C6E135742F5E9C344B66AE62544",
+  "mainSha256": "DC0153230C8F734E629B977027272BED529BA29311EDDF38896B0F4AB00CA320",
   "user": "https://raw.githubusercontent.com/binoy81162-byte/sharebridge/refs/heads/main/download/ShareBridge_User.exe",
-  "userSha256": "32E025F72590F310A7C17003946186CECA7F227D8431C908C8C412D77A2CAFFB"
+  "userSha256": "3ED3BD1F2F4CCD73C17DE6A4D7A2BEB1A7A945207AF334C855F18DAE22C45437"
 }
