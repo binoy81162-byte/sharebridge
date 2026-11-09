@@ -1,8 +1,8 @@
 {
-  "version": "4.2",
-  "notes": "New: IT Helpdesk + ShareBridge apps permanently on the dashboard; no more freezing (printer/share/LAN queries run in background); fast mode by default.",
+  "version": "4.5",
+  "notes": "v4.5: much faster opening (no start-up compile, no blocking queries), Gmail sign-in + auto test, festival wishes sent in the background with image + keep-using message, premium dashboard decorated per festival.",
   "main": "https://raw.githubusercontent.com/binoy81162-byte/sharebridge/refs/heads/main/download/ShareBridge_Main.exe",
-  "mainSha256": "DC0153230C8F734E629B977027272BED529BA29311EDDF38896B0F4AB00CA320",
+  "mainSha256": "B2BD534C4AC68871FCB7285D096B131E4DE79E824394883F944A35E6ED06A2EA",
   "user": "https://raw.githubusercontent.com/binoy81162-byte/sharebridge/refs/heads/main/download/ShareBridge_User.exe",
-  "userSha256": "3ED3BD1F2F4CCD73C17DE6A4D7A2BEB1A7A945207AF334C855F18DAE22C45437"
+  "userSha256": "FA3F9A174C645A959CBE330D56B8466226AAF22DBC3962900824BC83AF055C90"
 }
