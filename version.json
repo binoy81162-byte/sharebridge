@@ -1,8 +1,8 @@
 {
-  "version": "4.5",
-  "notes": "v4.5: much faster opening (no start-up compile, no blocking queries), Gmail sign-in + auto test, festival wishes sent in the background with image + keep-using message, premium dashboard decorated per festival.",
+  "version": "4.6",
+  "notes": "v4.6: faster opening (smaller program, background tasks start in parallel), IT Helpdesk removed, bank-style festival e-mail with the greeting card attached, sent every festival morning to the Main + User e-mails.",
   "main": "https://raw.githubusercontent.com/binoy81162-byte/sharebridge/refs/heads/main/download/ShareBridge_Main.exe",
-  "mainSha256": "B2BD534C4AC68871FCB7285D096B131E4DE79E824394883F944A35E6ED06A2EA",
+  "mainSha256": "44518FD3F537983D366D02001C0495F2440B7EF947BB6735388BE884902616FA",
   "user": "https://raw.githubusercontent.com/binoy81162-byte/sharebridge/refs/heads/main/download/ShareBridge_User.exe",
-  "userSha256": "FA3F9A174C645A959CBE330D56B8466226AAF22DBC3962900824BC83AF055C90"
+  "userSha256": "CD6183BDA8515C3B6FF40F645A2032ED9DDC95F9E97DD68F1EEB391E5E545849"
 }
